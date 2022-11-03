@@ -40,4 +40,22 @@ Adicionando fotos
 Adicionando links
 [Acesse o GitHub](https://github.com/RobertaPMarinho)
 
+Criando tabelas
+
+Num | Nome | Nota
+---|---|---|
+01 | Roberta | 7,0
+02 | Benício | 8,5
+03 | João | 6,0
+
+Terminou a tabela!
+
+Não entendo o comando document.ElementById da linguagem JavaScript.
+
+Não entendo o comando `document.ElementById` da linguagem JavaScript.
+
+Olá Roberta Marinho 🖖
+
+
+
 
